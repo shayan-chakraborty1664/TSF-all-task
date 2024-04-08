@@ -1,2 +1,2 @@
 # TSF-tasks
-All the given tasks of the sparks fondation has been shown here.
+All the given tasks of the Sparks Foundation Internship have been shown here.
